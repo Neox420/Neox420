@@ -1,5 +1,5 @@
 - My tag is @Neox420 but call me Neo, or Niels
 - Born in Berlin, but living in Switzerland right now
-- Working on my C# and C++
+- Working on my C# and C++ skills
 - Mainly interested in reverse engineering and AC + Kernel bypassing
 - First year studying, many more to come...
